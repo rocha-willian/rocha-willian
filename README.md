@@ -1,3 +1,5 @@
+<img src="assets/banner.png" width="100%"/>
+
 # 👋 Olá, eu sou um DevOps Engineer em construção
 
 Bem-vindo ao meu perfil!
@@ -5,6 +7,9 @@ Bem-vindo ao meu perfil!
 Sou um profissional de tecnologia construindo minha carreira na área de **DevOps e Cloud Computing**, com foco em automação, infraestrutura escalável e entrega contínua.
 
 Minha missão é me tornar um **DevOps Engineer especializado em cloud**, capaz de criar pipelines automatizados, gerenciar infraestrutura como código e operar aplicações modernas em ambientes containerizados.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rocha-willian)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wahcor@hotmail.com)
 
 ---
 
@@ -207,8 +212,6 @@ Por isso estou constantemente:
 ---
 #   Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rocha-willian)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wahcor@hotmail.com)
 
 
 ⭐ Obrigado por visitar meu perfil!

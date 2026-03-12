@@ -210,8 +210,5 @@ Por isso estou constantemente:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rocha-willian&theme=dracula)
 
 ---
-#   Como me encontrar
-
-
 
 ⭐ Obrigado por visitar meu perfil!

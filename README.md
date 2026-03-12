@@ -17,7 +17,8 @@ Minha missão é me tornar um **DevOps Engineer especializado em cloud**, capaz 
 
 Minha jornada começou com o estudo de **Microsoft Azure**, onde conquistei a certificação:
 
-🎓 AZ-104 | Microsoft Azure Administrator
+🎓 AZ-104 | Microsoft Azure Administrator [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/
+/wilr)
 
 Essa certificação me deu uma base sólida em:
 

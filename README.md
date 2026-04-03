@@ -1,5 +1,3 @@
-<img src="assets/banner.png" width="100%"/>
-
 # 👋 Olá, eu sou um DevOps Engineer em construção
 
 Bem-vindo ao meu perfil!

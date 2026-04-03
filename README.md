@@ -25,13 +25,7 @@ Agora estou expandindo minhas habilidades para o ecossistema **DevOps moderno**.
 
 # 🛠 Tecnologias que estou estudando
 
-### ☁️ Cloud
-
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-### ⚙️ DevOps
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -54,13 +48,6 @@ Meu objetivo é me tornar um **DevOps Engineer altamente qualificado**, capaz de
 ✔ Gerenciar ambientes cloud  
 ✔ Trabalhar com containers e Kubernetes  
 ✔ Aplicar práticas modernas de DevOps
-
----
-# 📊 Estatísticas GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rocha-willian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rocha-willian&layout=compact&theme=dracula)
 
 ---
 
